@@ -19,6 +19,7 @@ table, th, td, tr {
 th{
     font-weight: 700;
     font-size: 20px;
+    padding-right: 31px;
 }
 
 a{
